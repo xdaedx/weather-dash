@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 85%;
+}
+
+.city-container {
+  background-color: rgba(241, 235, 235, 0.3);
+}
+
+.recent-cities {
+  margin-top: 10px;
+}
+
+.recent-city {
+  cursor: pointer;
+  list-style: none;
+  border: 1px solid #f8f9fa;
+  border-radius: 5px;
+  text-transform: capitalize;
+}
+
+.forecast-container div {
+  margin: 5px;
+}
+
+.low {
+  background-color: rgb(35, 155, 35);
+}
+
+.mod {
+  background-color: rgb(223, 223, 47);
+}
+
+.high {
+  background-color: rgb(235, 140, 15);
+}
+
+.very-high {
+  background-color: rgb(255, 0, 0);
+  color: white;
+}
+
+.extreme {
+  background-color: rgb(140, 0, 255);
+  color: white;
