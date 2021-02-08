@@ -8,4 +8,4 @@ Built with HTML, CSS, JavaScript, Bootstrap, jQuery
 
 https://xdaedx.github.io/weather-dash/
 
-![image]()
+![image](https://github.com/xdaedx/weather-dash/blob/main/assets/images/Capture.PNG)
