@@ -1,5 +1,3 @@
-  
-//apiKey = "b8fed24ef97900ebf9d2de259c00d208"
 
 class DailyWeather {
     constructor(temp, humidity, iconDescription) {
